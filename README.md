@@ -1,4 +1,6 @@
 # pytest
 
-basic http flood tool 
-by zula
+
+bais http flood tool in python <br>
+made by zulaa <br>
+
